@@ -21,5 +21,11 @@ namespace WindowsFormsApp1
         {
             label1.Text = "I did something: "+DateTime.Now.ToString();// here is a new comment
         }
+
+        ///This does nothing
+        private void DoSomething()
+        {
+            // here is a comment
+        }
     }
 }
