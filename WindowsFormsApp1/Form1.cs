@@ -23,10 +23,13 @@ namespace WindowsFormsApp1
             DoSomething();
         }
 
-        private void DoSomething()
+        /// <summary>
+        /// omments go here
+        /// </summary>
+        public void DoSomething()
         {
             // here is a comment
-            // I still do absolutely nothing here man!
+            
         }
     }
 }
