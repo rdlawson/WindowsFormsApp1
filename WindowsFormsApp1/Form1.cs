@@ -20,9 +20,9 @@ namespace WindowsFormsApp1
         private void Button1_Click(object sender, EventArgs e)
         {
             label1.Text = "I did something: "+DateTime.Now.ToString();// here is a new comment
+            DoSomething();
         }
 
-        ///This does nothing
         private void DoSomething()
         {
             // here is a comment
