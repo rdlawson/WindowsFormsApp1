@@ -26,6 +26,7 @@ namespace WindowsFormsApp1
         private void DoSomething()
         {
             // here is a comment
+            // I still do absolutely nothing here man!
         }
     }
 }
